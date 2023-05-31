@@ -1,0 +1,47 @@
+.dashboard{
+    font-size: 40px;
+    font-weight: bold;
+    display:block;
+    background-image: url('https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149157312.jpg');
+    height: 160px;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    color: white;
+    
+}
+
+img {
+    height: 300px;
+    width: 250px;
+  }
+
+  .endboard{
+    font-size: 20px;
+    font-weight: bold;
+    display:block;
+    background-color: rgb(202, 211, 219);
+    height: 650px;
+    text-align: center;
+    position: relative;
+    text-align: center;
+}
+
+ a {
+    text-decoration-line:none;
+}
+  
+.icon{
+    width: 30px;
+    height: 50px;
+}
+
+.box{
+        text-align: center;
+        background-color: white;
+        width:500px;
+        border-radius: 9px;
+        padding: 16px;
+        margin: 15px;
+    
+}
